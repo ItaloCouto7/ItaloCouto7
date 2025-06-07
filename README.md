@@ -18,7 +18,7 @@
 ### 🚀 Tecnologias que utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,angular,git,linux,vscode,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,angular,git,linux,vscode,postgres,mongodb,laravel,docker,php,mysql,js" />
 </div>
 
 ---
