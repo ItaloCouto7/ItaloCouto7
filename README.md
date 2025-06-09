@@ -43,7 +43,7 @@
 ### 🌐 Contato
 
 - 📧 Email: [coutinhoitalo8@gmail.com]  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/italo-coutinho-17a762303/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/italo-coutinho-17a762303/)
 - 🚀 Sempre aberto para colaborações!
 
 ---
