@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ItaloCouto7&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCouto7&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 🌐 Contato
 
 - 📧 Email: [coutinhoitalo8@gmail.com]  
