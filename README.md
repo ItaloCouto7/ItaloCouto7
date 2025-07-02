@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de [Sistemas de Informação] na [Uninassau]  
+- 🎓 Estudante de Sistemas de Informação na Uninassau  
 - 💡 Explorando projetos com **Java**, **Python**, **TypeScript**, **Angular**, **Docker**, **Laravel**, **PHP**.  
 - 🔧 Atualmente trabalhando em: `Gstack`  
 - 🎯 Foco: escrever código limpo, aprender novas tecnologias e contribuir com a comunidade!
