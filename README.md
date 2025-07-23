@@ -29,6 +29,7 @@
 - 🔹 [**semaforo-project**](https://github.com/ItaloCouto7/semaforo-project): Automação de semáforo em Python  
 - 🔹 [**project-so**](https://github.com/ItaloCouto7/project-so): Projeto com TypeScript e arquitetura escalável
 - 🔹 [**auth-jwt**](https://github.com/ItaloCouto7/auth-jwt): Projeto de autenticação com JWT
+- 🔹 [**expense-manager**](https://github.com/ItaloCouto7/expense-manager): Projeto de gerenciador de gastos com IA
 
 ---
 
